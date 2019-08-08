@@ -1,0 +1,3 @@
+Notepad.FileFilterDemo$1
+Notepad.FileFilterDemo
+Notepad.MyFileFilter
